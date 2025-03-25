@@ -1,3 +1,5 @@
 "# NM-portfolio" 
 
-https://dx-abdul-16.github.io/portfolio/
+  view the portfolio
+  
+https://dxac-code-16.github.io/NM-portfolio/
