@@ -1,4 +1,4 @@
-# NM-portfolio
+<h1 align="center">  NAAN MUDHALVAN-Portfolio </h1>
 
 ## View the live DEMO portfolio:
 [DEMO LINK :-🔗📎📎](https://dxac-code-16.github.io/NM-portfolio/)
